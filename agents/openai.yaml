@@ -1,5 +1,4 @@
 interface:
-  display_name: "研究设计与有效性审查"
-  short_description: "系统审查定量研究设计、数据处理、空间测度与结论有效性"
-  default_prompt: "使用 $research-design-and-validity-review 审查本研究的设计、数据处理、计算实现与结论有效性。"
-
+  display_name: "GIS 与空间实证研究方法学审查"
+  short_description: "审查 GIS/空间研究设计、数据、空间测度、统计建模、空间机器学习与结论有效性"
+  default_prompt: "使用 $gis-spatial-research-methodology 审查本研究的 GIS/空间研究设计、数据处理、空间测度、统计或机器学习方法、程序实现与结论有效性。"
